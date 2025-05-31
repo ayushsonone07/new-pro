@@ -1,0 +1,27 @@
+[
+    {
+      "id" : "1",
+      "title": "Full Stack Web Development",
+      "image": "https://portfolio-new-liart-zeta.vercel.app/_next/image?url=%2Fbadges%2FAIML.png&w=828&q=75",
+      "description": "Completed a 3-month full stack course covering React, Node.js, and MongoDB."
+    },
+    {
+      "id" : "2",
+      "title": "Python for Everybody",
+      "image": "https://portfolio-new-liart-zeta.vercel.app/_next/image?url=%2Fbadges%2Fcloud.png&w=828&q=75",
+      "description": "An online course focused on Python fundamentals, data structures, and APIs."
+    },
+    {
+      "id" : "3",
+      "title": "Frontend Development with React",
+      "image": "https://portfolio-new-liart-zeta.vercel.app/_next/image?url=%2Fbadges%2Fccna.png&w=828&q=75",
+      "description": "Learned React.js fundamentals, hooks, and building modern UIs."
+    },
+    {
+      "id" : "4",
+      "title": "Frontend Development with React",
+      "image": "https://portfolio-new-liart-zeta.vercel.app/_next/image?url=%2Fbadges%2Fdevnet.png&w=828&q=75",
+      "description": "Learned React.js fundamentals, hooks, and building modern UIs."
+    }
+]
+  

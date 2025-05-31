@@ -1,0 +1,31 @@
+[
+    {
+      "head": "HR Dashboard",
+      "desc": "A full-stack HR dashboard to manage employees, leaves, and tasks.",
+      "bgImage": "https://images.pexels.com/photos/2693212/pexels-photo-2693212.png?auto=compress&cs=tinysrgb&w=600",
+      "github": "https://github.com/your-hr-dashboard",
+      "live": "https://hr-dashboard-demo.vercel.app"
+    },
+    {
+      "head": "Blog App",
+      "desc": "A modern blog with Next.js and Django REST API backend.",
+      "bgImage": "https://images.pexels.com/photos/2693212/pexels-photo-2693212.png?auto=compress&cs=tinysrgb&w=600",
+      "github": "https://github.com/your-blog-app",
+      "live": "https://blog-app-demo.vercel.app"
+    },
+    {
+      "head": "E-commerce Store",
+      "desc": "An online store built with Next.js and PhonePe payment integration.",
+      "bgImage": "https://images.pexels.com/photos/2693212/pexels-photo-2693212.png?auto=compress&cs=tinysrgb&w=600",
+      "github": "https://github.com/your-ecommerce-store",
+      "live": "https://your-store.vercel.app"
+    },
+    {
+        "head": "E-commerce Store",
+        "desc": "An online store built with Next.js and PhonePe payment integration.",
+        "bgImage": "https://images.pexels.com/photos/2693212/pexels-photo-2693212.png?auto=compress&cs=tinysrgb&w=600",
+        "github": "https://github.com/your-ecommerce-store",
+        "live": "https://your-store.vercel.app"
+    }
+]
+  
