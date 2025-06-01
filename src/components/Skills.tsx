@@ -21,7 +21,7 @@ const skills = [
 const Skills = () => {
   return (
     <section className="p-8 bg-black h-screen">
-      <div className="grid md:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-6 overflow-y-scroll max-h-[600px] sm:max-h-[320px]">
+      <div className="grid md:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-6 overflow-y-scroll max-h-[450px] sm:max-h-[320px]">
         {skills.map((skill) => (
           <div key={skill.title} className="bg-gray-200 rounded-2xl shadow-md p-6 flex flex-col items-center text-center">
             <img src={skill.logo} alt={skill.title} className="w-16 h-16 mb-4" />
