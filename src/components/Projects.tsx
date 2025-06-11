@@ -16,6 +16,7 @@ export default function Project({ head, desc, bgImage, github, live }: ProjectPr
         backgroundRepeat: 'no-repeat',
         backgroundSize: 'cover',
         backgroundPosition: 'center',
+        backgroundColor: '#333', // 👈 fallback to help you debug
       }}
     >
       <div className="absolute inset-0 bg-transparent transition-opacity duration-300 p-6 flex flex-col justify-end space-y-4">
