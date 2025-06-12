@@ -1,27 +1,27 @@
 [
     {
       "id" : "1",
-      "title": "Full Stack Web Development",
+      "title": "Harvard CS50 web programming with python",
       "image": "https://portfolio-new-liart-zeta.vercel.app/_next/image?url=%2Fcertificates%2Fcs50x.jpeg&w=828&q=75",
-      "description": "Completed a 3-month full stack course covering React, Node.js, and MongoDB."
+      "description": "Harvard's CS50 Web Programming with Python and JavaScript course provides a comprehensive introduction to web development, building upon the foundational knowledge from CS50x."
     },
     {
       "id" : "2",
-      "title": "Python for Everybody",
+      "title": "Intel oneAPI Hackathon",
       "image": "https://portfolio-new-liart-zeta.vercel.app/_next/image?url=%2Fcertificates%2FIntel_oneAPI.jpeg&w=828&q=75",
-      "description": "An online course focused on Python fundamentals, data structures, and APIs."
+      "description": "The Intel oneAPI Hackathon is a 30-hour offline event where developers compete to build innovative solutions using Intel's oneAPI programming model and heterogeneous computing."
     },
     {
       "id" : "3",
-      "title": "Frontend Development with React",
+      "title": "AWS Machine Learning Foundation",
       "image": "https://portfolio-new-liart-zeta.vercel.app/_next/image?url=%2Fcertificates%2FAWS_Cloud.jpg&w=828&q=75",
-      "description": "Learned React.js fundamentals, hooks, and building modern UIs."
+      "description": "This course, offered by Amazon Web Services (AWS), introduces students to AI/ML concepts, helps them understand how to apply ML services, and prepares them to label, build, train, and deploy ML models."
     },
     {
       "id" : "4",
-      "title": "Frontend Development with React",
+      "title": "AWS Cloud Foundation",
       "image": "https://portfolio-new-liart-zeta.vercel.app/_next/image?url=%2Fcertificates%2FAWS_ML.jpg&w=828&q=75",
-      "description": "Learned React.js fundamentals, hooks, and building modern UIs."
+      "description": "AWS Cloud Foundation is a structured, scalable, and secure environment that organizations build on AWS to support their cloud adoption and growth."
     }
   ]
   

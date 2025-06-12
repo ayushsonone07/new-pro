@@ -1,8 +1,9 @@
 import Text from "@/components/Text";
 import { Button } from "@/components/ui/button";
 import 'aos/dist/aos.css'; 
-import { FaInstagram, FaGithub, FaLinkedin, FaYoutube   } from "react-icons/fa";
-import { SiGeeksforgeeks, SiLeetcode } from "react-icons/si";
+import { FaInstagram, FaGithub, FaLinkedin, FaYoutube, FaFacebookF  } from "react-icons/fa";
+import { SiGeeksforgeeks } from "react-icons/si";
+import { FaXTwitter } from "react-icons/fa6";
 import Link from "next/link";
 import {
   Drawer,
@@ -31,19 +32,19 @@ export default function Home() {
             <Link href="/cv"><Button className="hover:bg-white hover:text-black">Download CV</Button></Link>
           </div>
           <div className="flex gap-5 justify-end mt-24">
-            <Link href='/' className="bg-white text-black text-md px-3 py-3 rounded-full ease-in-out duration-500 hover:text-white hover:bg-linear-65 from-purple-500 via-pink-500 to-gray-500"><FaInstagram  /></Link>
-            <Link href='/' className="bg-white text-black text-md px-3 py-3 rounded-full ease-in-out duration-500 hover:text-white hover:bg-linear-65 from-black to-gray-500"><FaGithub /></Link>
-            <Link href='/' className="bg-white text-black text-md px-3 py-3 rounded-full ease-in-out duration-500 hover:text-white hover:bg-linear-65 from-blue-500 to-gray-500"><FaLinkedin /></Link>
-            <Link href='/' className="bg-white text-black text-md px-3 py-3 rounded-full ease-in-out duration-500 hover:text-white hover:bg-linear-65 from-red-500 to-gray-500"><FaYoutube /></Link>
-            <Link href='/' className="bg-white text-black text-md px-3 py-3 rounded-full ease-in-out duration-500 hover:text-white hover:bg-linear-65 from-green-500 to-gray-500"><SiGeeksforgeeks /></Link>
-            <Link href='/' className="bg-white text-black text-md px-3 py-3 rounded-full ease-in-out duration-500 hover:text-white hover:bg-linear-65 from-yellow-500 to-gray-500"><SiLeetcode /></Link>
+            <Link href='https://www.instagram.com/ayushsonone07/' className="bg-white text-black text-md px-3 py-3 rounded-full ease-in-out duration-500 hover:text-white hover:bg-linear-65 from-purple-500 via-pink-500 to-gray-500"><FaInstagram  /></Link>
+            <Link href='https://github.com/ayushsonone07' className="bg-white text-black text-md px-3 py-3 rounded-full ease-in-out duration-500 hover:text-white hover:bg-linear-65 from-black to-gray-500"><FaGithub /></Link>
+            <Link href='https://www.linkedin.com/in/ayush-sonone-4a3100220/' className="bg-white text-black text-md px-3 py-3 rounded-full ease-in-out duration-500 hover:text-white hover:bg-linear-65 from-blue-500 to-gray-500"><FaLinkedin /></Link>
+            <Link href='https://www.youtube.com/@ayushsonone4772' className="bg-white text-black text-md px-3 py-3 rounded-full ease-in-out duration-500 hover:text-white hover:bg-linear-65 from-red-500 to-gray-500"><FaYoutube /></Link>
+            <Link href='https://www.facebook.com/aayush.sonone.7' className="bg-white text-black text-md px-3 py-3 rounded-full ease-in-out duration-500 hover:text-white hover:bg-linear-65 from-blue-500 to-gray-500"><FaFacebookF /></Link>
+            <Link href='https://x.com/sononeayush07' className="bg-white text-black text-md px-3 py-3 rounded-full ease-in-out duration-500 hover:text-white hover:bg-linear-65 from-black to-gray-500"><FaXTwitter /></Link>
           </div>
           <p className="mt-12">scroll down &darr;</p>
         </div>
       </section>
 
       {/* Overlapping Grid Section */}
-      <section className="grid sm:grid-cols-2 grid-cols-1 gap-4 mx-10">
+      <section className="grid sm:grid-cols-2 grid-cols-1 gap-3 mx-10">
         <div className="h-48 bg-white/10 backdrop-blur-md border border-white/20 rounded-2xl pointer-events-auto">
         <h1 className="text-center pt-5 text-5xl">Projects</h1>
         <p className="text-xs text-wrap px-5 py-2 text-center">Explore my hands-on projects that demonstrate real-world problem-solving using modern web technologies.</p>

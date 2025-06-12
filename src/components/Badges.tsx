@@ -9,7 +9,7 @@ export default function Badges() {
               <img src={cert.image} alt={cert.title} className="w-48 h-48 object-cover" />
               <div className="p-4 space-y-2">
                 <h3 className="text-lg text-white font-bold">{cert.title}</h3>
-                <p className="text-gray-600 text-sm">{cert.description}</p>
+                <p className="text-gray-100 text-sm">{cert.description}</p>
               </div>
             </div>
           ))}

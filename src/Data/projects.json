@@ -2,9 +2,9 @@
     {
       "head": "HR Dashboard",
       "desc": "A full-stack HR dashboard to manage employees, leaves, and tasks.",
-      "bgImage": "https://images.pexels.com/photos/2693212/pexels-photo-2693212.png?auto=compress&cs=tinysrgb&w=600",
+      "bgImage": "https://ibb.co/gZDJknZT",
       "github": "https://github.com/your-hr-dashboard",
-      "live": "https://hr-dashboard-demo.vercel.app"
+      "live": "https://ss-consultants-eight.vercel.app/"
     },
     {
       "head": "Blog App",

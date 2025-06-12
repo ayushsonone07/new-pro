@@ -1,27 +1,27 @@
 [
     {
       "id" : "1",
-      "title": "Full Stack Web Development",
+      "title": "AWS Machine Learning Foundation",
       "image": "https://portfolio-new-liart-zeta.vercel.app/_next/image?url=%2Fbadges%2FAIML.png&w=828&q=75",
-      "description": "Completed a 3-month full stack course covering React, Node.js, and MongoDB."
+      "description": "This course, offered by Amazon Web Services (AWS), introduces students to AI/ML concepts, helps them understand how to apply ML services, and prepares them to label, build, train, and deploy ML models."
     },
     {
       "id" : "2",
-      "title": "Python for Everybody",
+      "title": "AWS Cloud Foundation",
       "image": "https://portfolio-new-liart-zeta.vercel.app/_next/image?url=%2Fbadges%2Fcloud.png&w=828&q=75",
-      "description": "An online course focused on Python fundamentals, data structures, and APIs."
+      "description": "AWS Cloud Foundation is a structured, scalable, and secure environment that organizations build on AWS to support their cloud adoption and growth."
     },
     {
       "id" : "3",
-      "title": "Frontend Development with React",
+      "title": "Introduction to Network CCNA",
       "image": "https://portfolio-new-liart-zeta.vercel.app/_next/image?url=%2Fbadges%2Fccna.png&w=828&q=75",
-      "description": "Learned React.js fundamentals, hooks, and building modern UIs."
+      "description": "Introduction to Networks course, part of the CCNA curriculum, provides a foundational understanding of networking concepts, including network architectures, models, protocols, and elements."
     },
     {
       "id" : "4",
-      "title": "Frontend Development with React",
+      "title": "Cisco Devnet Associate",
       "image": "https://portfolio-new-liart-zeta.vercel.app/_next/image?url=%2Fbadges%2Fdevnet.png&w=828&q=75",
-      "description": "Learned React.js fundamentals, hooks, and building modern UIs."
+      "description": "The Cisco DevNet Associate certification validates foundational knowledge in developing and automating applications and workflows on Cisco platforms."
     }
 ]
   
