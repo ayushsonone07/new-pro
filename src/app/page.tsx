@@ -29,7 +29,7 @@ export default function Home() {
           <p className="text-2xl">Hi, I am</p>
           <h1 className="text-6xl font-bold mt-2 h-40 sm:h-12"><Text /></h1>
           <div className="mt-8">
-            <Link href="/cv"><Button className="hover:bg-white hover:text-black">Download CV</Button></Link>
+            <Link href="https://drive.google.com/file/d/1uYkxghYkOnCK-68HDLS5h1yKlYdisU3L/view?usp=sharing"><Button className="hover:bg-white hover:text-black">Download CV</Button></Link>
           </div>
           <div className="flex gap-5 justify-end mt-24">
             <Link href='https://www.instagram.com/ayushsonone07/' className="bg-white text-black text-md px-3 py-3 rounded-full ease-in-out duration-500 hover:text-white hover:bg-linear-65 from-purple-500 via-pink-500 to-gray-500"><FaInstagram  /></Link>
