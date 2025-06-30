@@ -156,17 +156,28 @@ export default function Home() {
           <h1 className="text-3xl font-bold mb-4">Work Experience</h1>
 
           <div className="job mb-6">
-            <h2 className="text-xl font-semibold">Front End Developer</h2>
-            <p><strong>Company:</strong>KVC Consultants ltd</p>
+            <h2 className="text-xl font-semibold">Data and Webpage Management</h2>
+            <p><strong>Company:</strong>KVC Consultants Ltd</p>
             <p><strong>Duration:</strong> July 2024 – Present</p>
-            <p><strong>Description:</strong> Worked on developing and maintaining frontend applications using Next.js</p>
+            <p><strong>Description:</strong></p>
+            <ul>
+              <li>Built an internal HR Dashboard to manage recruiter performance, pending leads, and leave tracking.</li>
+              <li>Automated data broadcasts using WhatsApp API via Aisensy to streamline communication for the HR team.</li>
+              <li>Cleaned and structured unorganized Google Spreadsheet data to extract meaningful HR insights and metrics.</li>
+              <li>Technologies used: Next.js, JavaScript, Tailwind CSS, Aisensy, Google Sheets.</li>
+            </ul>
           </div>
 
           <div className="job mb-6">
-            <h2 className="text-xl font-semibold">PHP Developer Intern</h2>
+            <h2 className="text-xl font-semibold">Web Developer Intern</h2>
             <p><strong>Company:</strong>Tech Global Solutions</p>
             <p><strong>Duration:</strong> Sep 2023 – Jan 2024</p>
-            <p><strong>Description:</strong> Built dynamic pages using CodeIgniter and Bootstrap, and handled MySQL database queries.</p>
+            <p><strong>Description:</strong></p>
+            <ul>
+              <li>Developed responsive web pages and implemented CRUD operations with dynamic content.</li>
+              <li>Integrated user authentication and handled SQL database interactions for client portals.</li>
+              <li>Technologies used: HTML, CSS, JavaScript, JQuery, SQL, PHP</li>
+            </ul>
           </div>
         </div>
 
